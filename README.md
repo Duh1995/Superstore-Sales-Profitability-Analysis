@@ -24,15 +24,15 @@ The objective was to identify sales trends, customer profitability, discount imp
 
 ### Executive Overview
 
-![Executive Overview](NOME_EXATO_DA_TUA_IMAGEM_1.png)
+![Executive Overview](Pagina 1.png)
 
 ### Customer Insights
 
-![Customer Insights](NOME_EXATO_DA_TUA_IMAGEM_2.png)
+![Customer Insights](Pagina 2.png)
 
 ### Executive Business Review
 
-![Executive Business Review](NOME_EXATO_DA_TUA_IMAGEM_3.png)
+![Executive Business Review](Pagina 3.png)
 
 ---
 
