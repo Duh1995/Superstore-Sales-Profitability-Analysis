@@ -28,7 +28,7 @@ The objective was to identify sales trends, customer profitability, discount imp
 
 ### Customer Insights
 
-![Customer Insights](Costumer.png)
+![Customer Insights](Customer.png)
 
 ### Executive Business Review
 
