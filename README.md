@@ -24,15 +24,17 @@ The objective was to identify sales trends, customer profitability, discount imp
 
 ### Executive Overview
 
-![Executive Overview](Executive.png)
+![Executive Overview](images/Executive.png)
 
 ### Customer Insights
 
-![Customer Insights](Customer.png)
+![Customer Insights](images/Customer.png)
 
 ### Executive Business Review
 
-![Executive Business Review](Summary.png)
+![Executive Business Review](images/Summary.png)
+
+
 
 ---
 
@@ -56,6 +58,9 @@ The objective was to identify sales trends, customer profitability, discount imp
 
 ---
 
+### Automated Executive Report
+
+![Executive Report](images/executive_report.png)
 ## Author
 
 Duarte Silva
