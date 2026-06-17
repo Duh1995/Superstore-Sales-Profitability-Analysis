@@ -2,21 +2,24 @@
 
 ## Project Overview
 
-This project analyzes retail sales performance using PostgreSQL, SQL, Power BI and DAX.
+This project analyzes retail sales performance using SQL, Power BI, and Python.
 
-The objective was to identify sales trends, customer profitability, discount impact and business opportunities through data analysis and interactive dashboards.
+The objective was to identify sales trends, customer profitability, discount impact, and business opportunities through data analysis, interactive dashboards, and automated business reporting.
 
 ---
 
 ## Tools Used
 
-- PostgreSQL
-- SQL
-- Power BI
-- DAX
-- Data Cleaning
-- Business Intelligence
-- Data Visualization
+* PostgreSQL
+* SQL
+* Power BI
+* DAX
+* Python
+* Pandas
+* ReportLab
+* Data Cleaning
+* Business Intelligence
+* Data Visualization
 
 ---
 
@@ -34,33 +37,93 @@ The objective was to identify sales trends, customer profitability, discount imp
 
 ![Executive Business Review](images/Summary.png)
 
+---
 
+## Python Business Analytics
+
+Using Python and Pandas, the project automatically calculates:
+
+* Total Sales
+* Total Profit
+* Profit Margin
+* Loss-Making Customers
+* Discount Performance
+* Customer Profitability
+
+Custom functions were developed to generate:
+
+* Executive Summary
+* Business Recommendations
+* Automated Business Insights
+* Executive PDF Report
 
 ---
 
 ## Key Findings
 
-- Overall profit margin reached 12.47%.
-- Discounts above 30% were associated with negative profit margins.
-- 155 loss-making customers were identified.
-- Office Supplies was the most profitable category.
-- Sales peaked during Q4.
+* Profit Margin: 12.47%
+* Loss-Making Customers: 155
+* High Discount Margin (30%+): -48.16%
+* Top Customer: Tamara Chand
+* Worst Customer: Cindy Stewart
+* Most Profitable Category: Technology
+* Top Region: West
 
 ---
 
 ## Business Recommendations
 
-- Review discount policies above 30%.
-- Focus on customer profitability rather than sales volume alone.
-- Increase investment in high-margin categories.
-- Prepare inventory and marketing campaigns for peak demand periods.
-- Monitor loss-making customers and review pricing strategies.
+* Review discount policies above 30%.
+* Focus on customer profitability rather than sales volume alone.
+* Reduce loss-making customer segments.
+* Increase investment in high-performing categories.
+* Replicate successful strategies from top-performing regions.
 
 ---
 
-### Automated Executive Report
+## Automated Executive Report
+
+The project automatically generates an executive PDF report using ReportLab.
+
+The report includes:
+
+* KPI Summary
+* Executive Summary
+* Business Overview
+* Strategic Recommendations
 
 ![Executive Report](images/executive_report.png)
+
+---
+
+## Skills Demonstrated
+
+* SQL Querying
+* Data Cleaning
+* Data Analysis
+* Dashboard Development
+* KPI Creation
+* Business Reporting
+* Python Automation
+* Data Storytelling
+* Business Intelligence
+
+---
+
+## Future Enhancements
+
+### Phase 3 – AI Business Insights
+
+Generate automated business insights from KPI results.
+
+### Phase 4 – Machine Learning Profit Prediction
+
+Predict profitability using historical sales data with Scikit-Learn.
+
+---
+
 ## Author
 
 Duarte Silva
+
+Aspiring Data Analyst focused on SQL, Power BI, Python, and Business Analytics.
