@@ -153,7 +153,7 @@ Generate automated business insights from KPI results.
 
 Predict profitability using historical sales data with Scikit-Learn.
 
-![Executive Report](images/executive_report.2.png)
+![Executive Report](images/machine_learning.png)
 
 ---
 
