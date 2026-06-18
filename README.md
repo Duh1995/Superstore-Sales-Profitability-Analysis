@@ -96,6 +96,39 @@ The report includes:
 
 ---
 
+## Machine Learning Profit Prediction
+
+As part of the project, Machine Learning models were developed to predict profit using historical sales data.
+
+### Features Used
+
+* Sales
+* Discount
+* Quantity
+* Product Sub-Category
+
+### Models Tested
+
+| Model                            |   MAE |
+| -------------------------------- | ----: |
+| Linear Regression                | 69.77 |
+| Linear Regression + Sub-Category | 67.73 |
+| Random Forest                    | 24.41 |
+
+### Key Findings
+
+* Random Forest significantly outperformed Linear Regression.
+* Sales was the most important predictor of profitability.
+* Discount was the second most important predictor.
+* Product Sub-Category provided additional predictive power.
+* Customer Segment did not provide meaningful improvement.
+
+### Business Impact
+
+The final Random Forest model reduced prediction error by approximately 65% compared to the baseline Linear Regression model and demonstrated how Machine Learning can support profitability forecasting and business decision-making.
+
+---
+
 ## Skills Demonstrated
 
 * SQL Querying
@@ -119,6 +152,8 @@ Generate automated business insights from KPI results.
 ### Phase 4 – Machine Learning Profit Prediction
 
 Predict profitability using historical sales data with Scikit-Learn.
+
+![Executive Report](images/executive_report.2.png)
 
 ---
 
